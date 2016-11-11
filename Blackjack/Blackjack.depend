@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1478733709 source:c:\users\kari\desktop\forritun 1\blackjack\main.cpp
+	<iostream>
+	"Card.h"
+
+1478734420 source:c:\users\kari\desktop\forritun 1\blackjack\src\card.cpp
+	"Card.h"
+
+1478730949 c:\users\kari\desktop\forritun 1\blackjack\include\card.h
+	<iostream>
+	<vector>
+

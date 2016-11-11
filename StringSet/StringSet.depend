@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1478786324 source:c:\users\kari\desktop\forritun 1\stringset\src\stringset.cpp
+	"StringSet.h"
+
+1478786322 c:\users\kari\desktop\forritun 1\stringset\include\stringset.h
+	<iostream>
+	<vector>
+
+1478786445 source:c:\users\kari\desktop\forritun 1\stringset\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	"StringSet.h"
+

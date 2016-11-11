@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1478856354 source:c:\users\kari\desktop\forritun 1\2014question3\main.cpp
+	<iostream>
+	"BankAccount.h"
+
+1478856378 c:\users\kari\desktop\forritun 1\2014question3\include\bankaccount.h
+	<iostream>
+	<string>
+
+1478856352 source:c:\users\kari\desktop\forritun 1\2014question3\src\bankaccount.cpp
+	"BankAccount.h"
+
