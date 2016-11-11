@@ -45,6 +45,7 @@ Student FindTopStudent(vector<Student> students, double &total)
         if(students.at(i).Grade > highestGrade)
         {
             topStudent = students.at(i);
+            highestGrade = students.at(i).Grade;
         }
         total += students.at(i).Grade;
     }
